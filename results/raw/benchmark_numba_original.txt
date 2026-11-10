@@ -1,0 +1,10 @@
+Successfully loaded: codes/wimax_576_0.5.alist
+Matrix dimensions: 288 x 576
+Number of nonzero entries: 1824
+Maximum column weight: 6
+Maximum row weight: 7
+
+=== BENCHMARK PARAMETERS ===
+Frames: 1000
+Eb/N0: 1.5 dB
+Maximum iterations: 50
